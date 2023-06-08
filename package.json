@@ -1,0 +1,16 @@
+{
+  "name": "v14-clean",
+  "version": "2.0.0",
+  "description": "V14 Clean Bot.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "nodemon main.js"
+  },
+  "author": "westydev",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
